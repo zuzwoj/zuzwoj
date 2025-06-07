@@ -4,6 +4,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <i>Everyday I grapple with the demons of my past but mostly Apache Daemon.</i>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zuzwoj.zuzwoj)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zuzwoj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
