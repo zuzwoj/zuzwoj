@@ -3,4 +3,3 @@ zuzwoj/zuzwoj is a special repository because its `README.md` (this file) appear
 You can click the Preview link to take a look at your changes.
 --->
 <i>Everyday I grapple with the demons of my past but mostly Apache Commons Daemon.</i>
-<img src="https://github-readme-stats-97mzklqyu-zuzwojs-projects.vercel.app/api/top-langs/?layout=compact&username=zuzwoj" alt="ovi" />
