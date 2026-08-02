@@ -7,4 +7,4 @@ You can click the Preview link to take a look at your changes.
 
 Currently struggling to do any of the following:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,java,jenkins,maven,spring,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,git,java,jenkins,maven,spring,kafka)](https://skillicons.dev)
